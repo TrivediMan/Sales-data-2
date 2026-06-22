@@ -84,3 +84,10 @@ Top 5 Products:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img width="1311" height="744" alt="Screenshot 2026-04-27 110512" src="https://github.com/user-attachments/assets/082de53a-77b2-408b-aa69-e3684198f046" />
+
+
+## 👨‍💻 Author
+
+**Man Trivedi**
+
+Power BI Developer | Data Analyst | 
